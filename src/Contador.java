@@ -25,7 +25,7 @@ public class Contador {
     static void numeros(int numero1, int numero2){
         int num1 = numero1;
         int num2 = numero2;
-        int result = num2 - num1;
+        int result = num1;
 
         int vet[]= new int[result];
         
